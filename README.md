@@ -1,5 +1,5 @@
 # Pytorch-1D-Multi-Modal-Classifier
-Python-1D-Multi-Modal-Classifier for simple data
+Pytorch-1D-Multi-Modal-Classifier for simple data
 
 ## Modeling for Multi-Modal structure
 First layer is splitted for Multi-Modal structure.
