@@ -1,4 +1,4 @@
-# Python-1D-Multi-Modal-Classifier
+# Pytorch-1D-Multi-Modal-Classifier
 Python-1D-Multi-Modal-Classifier for simple data
 
 ## Modeling for Multi-Modal structure
